@@ -9,5 +9,6 @@ The dataset used in this movie recommendation system: [Dataset](files.grouplens.
 ### Credits 
 
 [Dataquest](https://www.youtube.com/@Dataquestio): For the idea of Movie Recommendation System
+
 [Codedex](https://www.codedex.io): For providing such an awesome course on Python. This project is part of the Final Project for Codedex: The Legend of Python Course
 
